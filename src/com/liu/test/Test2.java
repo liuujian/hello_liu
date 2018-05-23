@@ -2,6 +2,6 @@ package com.liu.test;
 
 public class Test2 {
 	public static void main(String[] args) {
-		System.out.println("why  why  why ");
+		System.out.println("why  why  why.... ");
 	}
 }
